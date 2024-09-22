@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Simple Book handler\bin\Debug\net8.0\Simple Book handler.exe
+D:\Programmering\Programmering\Simple Book handler\bin\Debug\net8.0\Simple Book handler.deps.json
+D:\Programmering\Programmering\Simple Book handler\bin\Debug\net8.0\Simple Book handler.runtimeconfig.json
+D:\Programmering\Programmering\Simple Book handler\bin\Debug\net8.0\Simple Book handler.dll
+D:\Programmering\Programmering\Simple Book handler\bin\Debug\net8.0\Simple Book handler.pdb
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.AssemblyInfo.cs
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.dll
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\refint\Simple Book handler.dll
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.pdb
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\Simple Book handler.genruntimeconfig.cache
+D:\Programmering\Programmering\Simple Book handler\obj\Debug\net8.0\ref\Simple Book handler.dll
